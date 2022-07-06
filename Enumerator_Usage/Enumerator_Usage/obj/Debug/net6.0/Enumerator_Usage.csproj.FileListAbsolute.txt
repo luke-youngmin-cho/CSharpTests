@@ -1,0 +1,15 @@
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\bin\Debug\net6.0\Enumerator_Usage.exe
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\bin\Debug\net6.0\Enumerator_Usage.deps.json
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\bin\Debug\net6.0\Enumerator_Usage.runtimeconfig.json
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\bin\Debug\net6.0\Enumerator_Usage.dll
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\bin\Debug\net6.0\Enumerator_Usage.pdb
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\Enumerator_Usage.csproj.AssemblyReference.cache
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\Enumerator_Usage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\Enumerator_Usage.AssemblyInfoInputs.cache
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\Enumerator_Usage.AssemblyInfo.cs
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\Enumerator_Usage.csproj.CoreCompileInputs.cache
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\Enumerator_Usage.dll
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\refint\Enumerator_Usage.dll
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\Enumerator_Usage.pdb
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\Enumerator_Usage.genruntimeconfig.cache
+C:\Users\ym_lu\Documents\GitHub\CSharpTests\Enumerator_Usage\Enumerator_Usage\obj\Debug\net6.0\ref\Enumerator_Usage.dll
